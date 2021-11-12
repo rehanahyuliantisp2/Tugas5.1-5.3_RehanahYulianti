@@ -1,0 +1,40 @@
+.box1 {
+  float: right;
+  background-color: yellowgreen;
+  width: 95%;
+  height: 70px;
+  margin-right: 1em;
+  margin: 2em;
+}
+.box2 {
+  float: right;
+  background-color: orangered;
+  width: 70%;
+  height: 180px;
+  margin-right: 1em;
+  margin: 2em;
+}
+.box3 {
+  float: right;
+  background-color: yellow;
+  width: 19.9%;
+  height: 180px;
+  margin-right: 1em;
+  margin: 2em;
+}
+.box4 {
+  float: right;
+  background-color: aqua;
+  width: 70%;
+  height: 180px;
+  margin-right: 1em;
+  margin: 2em;
+}
+.box5 {
+  float: right;
+  background-color: yellow;
+  width: 19.9%;
+  height: 180px;
+  margin-right: 1em;
+  margin: 2em;
+}
