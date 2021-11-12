@@ -1,0 +1,49 @@
+.box1 {
+  float: right;
+  background-color: orangered;
+  width: 80%;
+  height: 75px;
+  margin: 1em;
+  margin-right: 1em;
+}
+.box2 {
+  float: right;
+  background-color: yellow;
+  width: 15%;
+  height: 75px;
+  margin: 1em;
+  margin-right: 1em;
+}
+.box3 {
+  float: right;
+  background-color: aqua;
+  width: 15%;
+  height: 350px;
+  margin: 1em;
+  margin-right: 1em;
+}
+.box4 {
+  float: right;
+  background-color: gray;
+  width: 62.5%;
+  height: 350px;
+  margin: 1em;
+  margin-right: 1em;
+  position: relative;
+}
+.box5 {
+  float: right;
+  background-color: yellowgreen;
+  width: 15%;
+  height: 350px;
+  margin: 1em;
+  margin-right: 1em;
+}
+.box6 {
+  float: right;
+  background-color: blue;
+  width: 97.2%;
+  height: 75px;
+  margin: 1em;
+  margin-right: 1em;
+}
